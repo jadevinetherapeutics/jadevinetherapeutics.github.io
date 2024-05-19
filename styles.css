@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #004d40;
     color: white;
     padding: 1rem 0;
     text-align: center;
@@ -17,7 +17,7 @@ header {
 nav {
     display: flex;
     justify-content: center;
-    background-color: #444;
+    background-color: #00695c;
     padding: 0.5rem 0;
 }
 
@@ -30,7 +30,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #555;
+    background-color: #004d40;
 }
 
 .container {
@@ -42,11 +42,11 @@ nav a:hover {
 }
 
 h1, h2 {
-    color: #333;
+    color: #004d40;
 }
 
 .hero {
-    background-color: #4CAF50;
+    background-color: #00796b;
     color: white;
     padding: 4rem 0;
     text-align: center;
@@ -61,7 +61,7 @@ h1, h2 {
 }
 
 footer {
-    background-color: #333;
+    background-color: #004d40;
     color: white;
     text-align: center;
     padding: 1rem 0;
